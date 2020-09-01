@@ -1,2 +1,3 @@
 # LR
-Logistic and Linear Classification 
+Logistic Regression(classification) and Linear Regression
+
